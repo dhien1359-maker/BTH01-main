@@ -1,4 +1,4 @@
-# Student Information
-
-1. **Họ và tên**: Phạm Quang Linh
-2. **MSV**: 23810310260
+## Thông tin sinh viên
+- Họ và tên: Đinh Thế Hiển
+- Mã sinh viên: 23810310283
+## Kết quả
