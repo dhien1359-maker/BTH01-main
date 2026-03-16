@@ -1,7 +1,9 @@
-# Student Information
+## Thông tin sinh viên
+- Họ và tên: Đinh Thế Hiển
+- Mã sinh viên: 23810310283
+## Kết quả
 
-1. **Họ và tên**: Đinh Thế Hiển
-2. **MSV**: 23810310283
-
-![alt text](image1.png)
-
+<p>
+  <img src="./assets/images/image01.png" width="300" />
+  <img src="./assets/images/image02.png" width="300" />
+</p>
